@@ -15,7 +15,9 @@ public class SPTV22Game {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        App app;
+        app = new App();
+        app.run();
     }
     
 }
