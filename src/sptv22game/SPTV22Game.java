@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Для запуска в Windows необходимо создать bat файл с таким содержимым:
+ * start "" java -jar JPTV22Game.jar jptv22Game.JPTV22Game
  */
 package sptv22game;
 
